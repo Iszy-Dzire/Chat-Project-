@@ -47,7 +47,7 @@ Feel free to copy, modify, or share — just keep the license included.
 **Iszy Dzire**  
 Blockchain & Frontend Developer  
 ⚙️ Marine Engineering student | Learning by building  
-🔗 [GitHub](https://github.com/your-username) — *(Replace with your GitHub profile)*
+🔗 https://github.com/Iszy-Dzire
 
 
 
